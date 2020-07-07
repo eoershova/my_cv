@@ -11,3 +11,10 @@ Here are my relevant projects:
 - Sentiment Analysis of comments in VK communities [website](http://vksentiment.pythonanywhere.com), [source code](https://github.com/eoershova/vk-sentiment). Done in collaboration with Ann Kopaeva
 - Automatic Error Identification and Classification for Learners of English with Russian as their L1 [website](http://adwiser.pythonanywhere.com). I manage this project at the Lab
 - Twitter Sentiment Analysis [jupyter notebook](https://github.com/eoershova/HW8). Done as homework.
+
+I rely on the following technologies:
+- Python3
+- SQLite, Postgresql
+- SpaCy, TreeTagger, Pymorphy, Pymystem, NLTK, Gensim
+- scikit-learn
+- Flask
